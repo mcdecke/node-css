@@ -1,0 +1,46 @@
+
+img {
+  max-height: 100px;
+}
+
+.home-intro {
+  margin-top: 30px;
+  max-width: 735px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.green-bg {
+  background-color: #EAF5EA;
+  padding: 10px;
+  text-align: center;
+  margin: 20px;
+}
+
+.dk-grn {
+  background-color: #0D6C0E;
+  color: white;
+  height: 80px;
+  margin: 10px;
+}
+
+a:link {
+  color: #458440;
+}
+
+.center {
+  text-align: center;
+}
+
+li a:link {
+  font-size: 14px;
+}
+
+.linuxfoundation-footer{
+  color: white;
+  text-align: left;
+}
+
+.linuxfoundation-logo img{
+  max-width: 416px;
+}
